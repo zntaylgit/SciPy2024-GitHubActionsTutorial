@@ -19,4 +19,5 @@ jobs:
         python -c "import scipy as sp; print('Scipy version: '+sp.__version__)"
         python -c "import matplotlib as mpl; print('Matplotlib version: '+mpl.__version__)"
 
-#hurraY
+# now has the winter of our discontent,
+# been made glorious summer by this son of York.
